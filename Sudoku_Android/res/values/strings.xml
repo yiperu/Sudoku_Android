@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sudoku_Android</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world of Sudoku..!</string>
+   
+	<string name="main_title">Android Sudoku</string>
+	<string name="continue_label">Continua</string>
+	<string name="new_game_label">Nuevo Juego</string>
+	<string name="about_label">Acerca de</string>
+	<string name="exit_label">Salir</string>
+    
+
+</resources>
