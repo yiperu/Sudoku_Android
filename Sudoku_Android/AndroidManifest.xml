@@ -22,6 +22,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.apps4s.sudoku_android.AboutActivity"
+            android:theme="@android:style/Theme.Dialog"
+            android:label="@string/title_activity_about" >
+        </activity>
     </application>
 
 </manifest>
